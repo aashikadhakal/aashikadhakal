@@ -2,7 +2,7 @@
 ### Explanation:
 - I added a **Dynamic Quote of the Day** section using this link:
   ```md
-  ![Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+  ![Dynamic Quote](https://readme-quote.vercel.app/api)
 
 
 # 💫 Welcome to My GitHub Galaxy! 🌟
