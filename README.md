@@ -1,3 +1,10 @@
+
+### Explanation:
+- I added a **Dynamic Quote of the Day** section using this link:
+  ```md
+  ![Dynamic Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+
 # 💫 Welcome to My GitHub Galaxy! 🌟
 
 Hey there! 👋 I'm **Your Name**, a passionate **Your Role** 🚀 with a love for all things **Your Interests**. Check out my universe of code and creativity below!
